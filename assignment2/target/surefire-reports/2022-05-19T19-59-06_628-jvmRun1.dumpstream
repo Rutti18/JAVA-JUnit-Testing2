@@ -1,0 +1,112 @@
+# Created at 2022-05-19T19:59:08.340
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2022-05-19T19:59:08.564
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.example.AbbreviationsTest,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.611
+Unexpected IOException: 5,1,com.example.AbbreviationsTest,testAbbreviations_findExplanationFor,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.646
+Unexpected IOException: 6,1,com.example.AbbreviationsTest,testAbbreviations_findExplanationFor,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.648
+Unexpected IOException: 5,1,com.example.AbbreviationsTest,testAbbreviations_hasAbbreviation,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.651
+Unexpected IOException: 6,1,com.example.AbbreviationsTest,testAbbreviations_hasAbbreviation,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.660
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.example.AbbreviationsTest,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.669
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.example.BookTest,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.673
+Unexpected IOException: 5,1,com.example.BookTest,testBookName,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.677
+Unexpected IOException: 6,1,com.example.BookTest,testBookName,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.679
+Unexpected IOException: 5,1,com.example.BookTest,testBookWeight,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.731
+Unexpected IOException: 6,1,com.example.BookTest,testBookWeight,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.735
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.example.BookTest,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.741
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.example.CustomTacoBoxTest,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.743
+Unexpected IOException: 5,1,com.example.CustomTacoBoxTest,testTacosRemaining,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.745
+Unexpected IOException: 6,1,com.example.CustomTacoBoxTest,testTacosRemaining,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.746
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.example.CustomTacoBoxTest,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.750
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.example.NicknamesTest,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.780
+Unexpected IOException: 5,1,com.example.NicknamesTest,testNickNames,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.783
+Unexpected IOException: 6,1,com.example.NicknamesTest,testNickNames,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.784
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.example.NicknamesTest,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.823
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.example.TripleTacoBoxTest,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.826
+Unexpected IOException with stream: 3
+
+# Created at 2022-05-19T19:59:08.827
+Unexpected IOException with stream: 
+
+
+# Created at 2022-05-19T19:59:08.829
+Unexpected IOException: 5,1,com.example.TripleTacoBoxTest,testTacosRemaining,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.832
+Unexpected IOException: 6,1,com.example.TripleTacoBoxTest,testTacosRemaining,null,null,null
+
+
+# Created at 2022-05-19T19:59:08.834
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.example.TripleTacoBoxTest,null,null,null
+
+
